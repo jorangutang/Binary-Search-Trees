@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfb21534-73fe-4e3a-b7cf-0553a78299bf" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PowerAppArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PowerArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Readings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cleaned_data.csv" afterDir="false" />
+    <list default="true" id="bfb21534-73fe-4e3a-b7cf-0553a78299bf" name="Default" comment="Commit 3">
+      <change afterPath="$PROJECT_DIR$/src/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testPowerBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearchTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryTreeNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PowerArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PowerArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PowerArrayApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PowerArrayApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PowerBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PowerBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PowerBSTApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PowerBSTApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReadingsNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReadingsNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/instrumentationOUT.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/instrumentationOUT.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/PowerAppArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/PowerArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Readings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/cleaned_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testPowerArrayApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testPowerArray.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,75 +28,104 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="PowerAppArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PowerAppArray.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="PowerArrayApp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PowerArrayApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PowerBSTApp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PowerBSTApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testPowerArray.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/testPowerArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Makefile" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa204.17990/Makefile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="makefile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/makefile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cleaned_data.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cleaned_data.csv">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="Readings.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Readings.java">
+      <file leaf-file-name="testPowerBST.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/testPowerBST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-              <folding>
-                <element signature="e#424#425#0" expanded="true" />
-                <element signature="e#453#454#0" expanded="true" />
-                <element signature="e#485#486#0" expanded="true" />
-                <element signature="e#513#514#0" expanded="true" />
-                <element signature="e#547#548#0" expanded="true" />
-                <element signature="e#577#578#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="408">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PowerArray.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PowerArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PowerArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="373">
+              <caret line="76" column="5" lean-forward="true" selection-start-line="57" selection-start-column="3" selection-end-line="76" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#2201#2202#0" expanded="true" />
+                <element signature="e#2239#2240#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DamArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17308.14665/DamArray.java">
+      <file leaf-file-name="PowerBST.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PowerBST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-901">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            <state relative-caret-position="-385">
+              <caret line="101" column="24" lean-forward="true" selection-start-line="101" selection-start-column="24" selection-end-line="101" selection-end-column="24" />
               <folding>
-                <element signature="e#0#1677#0" expanded="true" />
                 <element signature="imports" expanded="true" />
+                <element signature="e#3240#3241#0" expanded="true" />
+                <element signature="e#3287#3288#0" expanded="true" />
+                <element signature="e#3325#3326#0" expanded="true" />
+                <element signature="e#3354#3355#0" expanded="true" />
+                <element signature="e#4058#4059#0" expanded="true" />
+                <element signature="e#4090#4091#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dams.java" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17308.49489/Dams.java">
+      <file leaf-file-name="ReadingsNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ReadingsNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="679">
-              <caret line="60" selection-start-line="4" selection-end-line="60" />
-              <folding>
-                <element signature="e#0#1020#0" expanded="true" />
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="323">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -101,9 +142,23 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>br</find>
+      <find>inorder</find>
+      <find>inOrder</find>
+      <find>DamNode</find>
+      <find>dam</find>
+      <find>count</find>
+      <find>damName</find>
+      <find>dbst</find>
+      <find>parent</find>
+      <find>d</find>
+      <find>frequency</find>
     </findStrings>
     <replaceStrings>
       <replace>readin</replace>
+      <replace>frequency</replace>
+      <replace>Datime</replace>
+      <replace>newNode</replace>
+      <replace>instring</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -113,10 +168,21 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/BinarySearchTree.java" />
-        <option value="$PROJECT_DIR$/src/Readings.java" />
         <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa17308.14665/DamArray.java" />
         <option value="$PROJECT_DIR$/src/PowerAppArray.java" />
+        <option value="$PROJECT_DIR$/src/Readings.java" />
+        <option value="$PROJECT_DIR$/makefile" />
+        <option value="$PROJECT_DIR$/src/PowerNode.java" />
+        <option value="$PROJECT_DIR$/src/ReadingsNode.java" />
+        <option value="$PROJECT_DIR$/src/PowerBSTtree.java" />
+        <option value="$PROJECT_DIR$/src/PowerArrayApp.java" />
+        <option value="$PROJECT_DIR$/src/testPowerArrayApp.java" />
         <option value="$PROJECT_DIR$/src/PowerArray.java" />
+        <option value="$PROJECT_DIR$/src/testPowerBST.java" />
+        <option value="$PROJECT_DIR$/src/PowerBSTApp.java" />
+        <option value="$PROJECT_DIR$/src/PowerBST.java" />
+        <option value="$PROJECT_DIR$/src/testPowerArray.java" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa204.17990/Makefile" />
       </list>
     </option>
   </component>
@@ -131,27 +197,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="CSC2001A" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CSC2001A" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CSC2001A" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CSC2001A" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-    </panes>
+    <panes />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -165,13 +211,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.testPowerBST">
     <configuration name="PowerAppArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PowerAppArray" />
       <module name="CSC2001A" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
+    <configuration name="PowerArrayApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PowerArrayApp" />
+      <module name="CSC2001A" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="PowerBSTApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PowerBSTApp" />
+      <module name="CSC2001A" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="testPowerArrayApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testPowerArrayApp" />
+      <module name="CSC2001A" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="testPowerBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testPowerBST" />
+      <module name="CSC2001A" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -212,8 +278,19 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Application.PowerAppArray" />
+      <item itemvalue="Application.PowerArrayApp" />
+      <item itemvalue="Application.testPowerArrayApp" />
+      <item itemvalue="Application.PowerBSTApp" />
+      <item itemvalue="Application.testPowerBST" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.testPowerBST" />
+        <item itemvalue="Application.PowerBSTApp" />
+        <item itemvalue="Application.testPowerArrayApp" />
+        <item itemvalue="Application.PowerArrayApp" />
         <item itemvalue="Application.PowerAppArray" />
       </list>
     </recent_temporary>
@@ -235,64 +312,68 @@
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.32903227" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3285151" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26806834" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.193125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" side_tool="true" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.26806834" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.193125" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.32903227" />
-      <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26806834" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.193125" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3285151" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info id="Favorites" order="5" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -300,93 +381,62 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Downloads/BinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17308.49489/Dams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="679">
-          <caret line="60" selection-start-line="4" selection-end-line="60" />
-          <folding>
-            <element signature="e#0#1020#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17308.14402/Dam.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#0#332#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17308.31858/DamArrayApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#275#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17308.35425/Dam.java">
+    <entry file="file://$PROJECT_DIR$/src/PowerBSTApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
+          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
           <folding>
-            <element signature="e#0#332#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17308.45118/DamArrayApp.java">
+    <entry file="file://$PROJECT_DIR$/src/testPowerArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PowerBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1921">
+          <caret line="120" column="4" selection-start-line="120" selection-start-column="4" selection-end-line="120" selection-end-column="4" />
           <folding>
-            <element signature="e#0#275#0" expanded="true" />
             <element signature="imports" expanded="true" />
+            <element signature="e#3240#3241#0" expanded="true" />
+            <element signature="e#3287#3288#0" expanded="true" />
+            <element signature="e#3325#3326#0" expanded="true" />
+            <element signature="e#3354#3355#0" expanded="true" />
+            <element signature="e#4058#4059#0" expanded="true" />
+            <element signature="e#4090#4091#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinaryTree.java">
+    <entry file="file://$PROJECT_DIR$/src/ReadingsNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="73" column="8" selection-start-line="73" selection-start-column="8" selection-end-line="73" selection-end-column="8" />
-          <folding>
-            <element signature="e#1755#1766#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="323">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17308.14665/DamArray.java">
+    <entry file="file://$PROJECT_DIR$/src/PowerArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-901">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="1088">
+          <caret line="65" column="51" lean-forward="true" selection-start-line="65" selection-start-column="51" selection-end-line="65" selection-end-column="51" />
           <folding>
-            <element signature="e#0#1677#0" expanded="true" />
             <element signature="imports" expanded="true" />
+            <element signature="e#2201#2202#0" expanded="true" />
+            <element signature="e#2239#2240#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PowerAppArray.java">
+    <entry file="file://$PROJECT_DIR$/src/PowerArrayApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+        <state relative-caret-position="306">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -394,12 +444,15 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cleaned_data.csv">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Readings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+        <state relative-caret-position="425">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
           <folding>
             <element signature="e#424#425#0" expanded="true" />
             <element signature="e#453#454#0" expanded="true" />
@@ -411,13 +464,183 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17308.19522/DamArray.java" />
     <entry file="file://$PROJECT_DIR$/src/PowerArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="136">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2201#2202#0" expanded="true" />
+            <element signature="e#2239#2240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/BinaryTree.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17308.49489/Dams.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17308.14402/Dam.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17308.31858/DamArrayApp.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17308.35425/Dam.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17308.45118/DamArrayApp.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17308.14665/DamArray.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17308.19522/DamArray.java" />
+    <entry file="file://$PROJECT_DIR$/src/cleaned_data.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="85">
+          <caret line="356" column="19" selection-start-line="356" selection-end-line="356" selection-end-column="19" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="65" lean-forward="true" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/BTQueue.java" />
+    <entry file="file://$USER_HOME$/Downloads/BTQueueNode.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa9464.41417/Dams.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa9464.27799/DamBSTApp.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa9464.39125/DamBST.java" />
+    <entry file="file://$PROJECT_DIR$/cleaned_data.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa9464.41771/DamNode.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa9464.9462/DamNode.java" />
+    <entry file="file://$PROJECT_DIR$/BTQueue.java" />
+    <entry file="file://$PROJECT_DIR$/src/Readings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="27" />
+          <folding>
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinarySearchTree.java" />
+    <entry file="file://$PROJECT_DIR$/src/test.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa12264.30414/DamBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="164" lean-forward="true" selection-start-line="112" selection-start-column="4" selection-end-line="164" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa12264.14909/DamBSTApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryTree.java" />
+    <entry file="file://$PROJECT_DIR$/src/PowerBSTtree.java" />
+    <entry file="file://$PROJECT_DIR$/BinaryTreeNode.java" />
+    <entry file="file://$PROJECT_DIR$/makefile" />
+    <entry file="file://$PROJECT_DIR$/BTQueueNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/testPowerArrayApp.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree.java" />
+    <entry file="file://$PROJECT_DIR$/src/BinarySearchTree.java" />
+    <entry file="file://$PROJECT_DIR$/src/BinaryTreeNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/PowerArrayApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReadingsNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PowerArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="76" column="5" lean-forward="true" selection-start-line="57" selection-start-column="3" selection-end-line="76" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2201#2202#0" expanded="true" />
+            <element signature="e#2239#2240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PowerBSTApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testPowerBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PowerBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-385">
+          <caret line="101" column="24" lean-forward="true" selection-start-line="101" selection-start-column="24" selection-end-line="101" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3240#3241#0" expanded="true" />
+            <element signature="e#3287#3288#0" expanded="true" />
+            <element signature="e#3325#3326#0" expanded="true" />
+            <element signature="e#3354#3355#0" expanded="true" />
+            <element signature="e#4058#4059#0" expanded="true" />
+            <element signature="e#4090#4091#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa204.17990/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testPowerArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
         </state>
       </provider>
     </entry>
