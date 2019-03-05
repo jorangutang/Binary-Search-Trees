@@ -1,6 +1,9 @@
-import java.io.*;
-import java.util.*;
-
+/**
+ * @author Jesse Smart
+ * @date 01/03/2019
+ * This is the driver class for the PowerBST.
+ * It can run in the terminal with the argument for a specific search or without on which returns all.
+ */
 public class PowerBSTApp{
     public static void main(String[] args){
         PowerBST powerbst = new PowerBST();

@@ -3,6 +3,9 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.io.PrintWriter;
 
+/**
+ * This class is creates a Binary Tree from the file.csv , in order to search for the desired items or print in order.
+ */
 public class PowerBST {
 
     public ReadingsNode[] readingsNodelist;
@@ -13,7 +16,10 @@ public class PowerBST {
     int count = 0;
     int frequency = 0;
 
-
+    /**
+     * @constructor 
+     * initializes a PowerBST object and creates the binary tree.
+     */
     public PowerBST() {
         try {
             BufferedReader readin = new BufferedReader(new FileReader("cleaned_data.csv"));
@@ -35,6 +41,11 @@ public class PowerBST {
                 addNode(attach);
             }
     }
+
+    /**
+     * Adds the parameter to binary tree, if no tree exists, this will be the root Node.
+     * @param temp of type ReadingsNode 
+     */
     public void addNode(ReadingsNode temp){
         ReadingsNode newNode = new ReadingsNode(temp.Datime, temp.GloAP, temp.Voltage);
 
@@ -70,18 +81,24 @@ public class PowerBST {
             }
         }
     }
-   // public void inOrder() { inOrder(root); }
-    public void inOrder( ReadingsNode tempRoot )
-    {
-        if (tempRoot != null)
-        {
+
+    /**
+     * This method will print all Readings in order of Date and time.
+     * @param tempRoot Uses this Node as a reference to PrintAll in order.
+     */
+    public void inOrder( ReadingsNode tempRoot ){
+        if (tempRoot != null){
             inOrder(tempRoot.getLeft ());
             System.out.println(tempRoot);
             inOrder(tempRoot.getRight ());
         }
     }
 
-
+    /**
+     * This method allows us to search for a desired Reading in the tree.
+     * @param instring is the item we wish to find
+     * @returns ReadingsNode we were looking for.
+     */
     public ReadingsNode find(String instring){
         frequency = 0;
         if (root == null){
@@ -92,35 +109,55 @@ public class PowerBST {
         }
     }
 
-    public ReadingsNode find(String instring, ReadingsNode focus){
+    /**
+     * 
+     * @param instring is the item we are looking for.
+     * @param Reference 
+     * @return
+     */
+    public ReadingsNode find(String instring, ReadingsNode Reference){
         if (instring.equals("")) return null;
-        if (instring.compareTo(focus.Datime) == 0){
+        if (instring.compareTo(Reference.Datime) == 0){
             frequency++;
-            return focus;
+            return Reference;
         }
-        else if (instring.compareTo(focus.Datime) < 0){
+        else if (instring.compareTo(Reference.Datime) < 0){
             frequency++;
-            return (focus.getLeft() == null) ? null : find (instring, focus.leftChild);
+            return (Reference.getLeft() == null) ? null : find (instring, Reference.leftChild);
         }
         else{
             frequency++;
-            return (focus.getRight() == null) ? null : find (instring, focus.rightChild);
+            return (Reference.getRight() == null) ? null : find (instring, Reference.rightChild);
         }
     }
 
+    /**
+     * Prints the found item.
+     * @param input
+     */
     public void printDateTimeBST(String input){
         System.out.println(find(input));
     }
 
+    /**
+     * Prints all items from the inOrder() method.
+     */
     public void printAllDateTimes(){
         inOrder(root);
     }
 
+    /**
+     * This Array stores the instrumentation values before they are sent to an out file.
+     */
     public void InstrumentBSTArray(){
         instrumentationBSTStore[count] = frequency;
         count++;
     }
 
+    /**
+     * Writes all instrumentations to InstrumentationBST.txt.
+     * @throws IOException
+     */
     public void InstrumentationBSTUpdate() throws IOException {
         try (PrintWriter writer = new PrintWriter("InstrumentationBST.txt", "utf-8")) {
             int stop = 0;
@@ -137,8 +174,10 @@ public class PowerBST {
         }
     }
 
-    public int getInstrumentationBST()
-    {
+    /**
+     * @return the instrumentation.
+     */
+    public int getInstrumentationBST(){
         return frequency;
     }
 }	

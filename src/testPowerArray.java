@@ -1,5 +1,8 @@
 import java.io.IOException;
 
+/**
+ * This is a Main method for testing PowerArray.
+ */
 public class testPowerArray {
     public static void main(String[] args) throws IOException {
         PowerArray test = new PowerArray();

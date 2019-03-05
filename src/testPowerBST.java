@@ -1,5 +1,9 @@
 import java.io.IOException;
 
+/**
+ * This is a Main method for testing PowerBST.
+ */
+
 public class testPowerBST {
     public static void main(String[] args) throws IOException {
         PowerBST test = new PowerBST();
