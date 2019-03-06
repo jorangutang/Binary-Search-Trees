@@ -68,7 +68,7 @@ public class PowerArray {
     }
 
     /**
-     * Creates an array of all the search done on a PowerArray object.
+     * Creates an array of all the search instrumentations done on a PowerArray object.
      */
     public void InstrumentArray(){
         instrumentationStore[count] = instrumentation;

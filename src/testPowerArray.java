@@ -18,6 +18,14 @@ public class testPowerArray {
         test.InstrumentArray();
         test.getInstrumentation();
 
+        test.printDateTime("16/12/2006/18:42:00");
+        test.InstrumentArray();
+        test.getInstrumentation();
+
+        test.printDateTime("16/12/2006/20:50:00");
+        test.InstrumentArray();
+        test.getInstrumentation();
+
         test.printDateTime("123");
         test.InstrumentArray();
         test.getInstrumentation();

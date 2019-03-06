@@ -142,7 +142,7 @@ public class PowerBST {
     /**
      * Prints all items from the inOrder() method.
      */
-    public void printAllDateTimes(){
+    public void printAllDateTimesBST(){
         inOrder(root);
     }
 

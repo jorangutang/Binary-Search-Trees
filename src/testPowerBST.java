@@ -16,6 +16,12 @@ public class testPowerBST {
         test.printDateTimeBST("17/12/2006/00:09:00");
         test.InstrumentBSTArray();
 
+        test.printDateTimeBST("16/12/2006/18:42:00");
+        test.InstrumentBSTArray();
+
+        test.printDateTimeBST("16/12/2006/20:50:00");
+        test.InstrumentBSTArray();
+
         test.printDateTimeBST("123");
         test.InstrumentBSTArray();
 

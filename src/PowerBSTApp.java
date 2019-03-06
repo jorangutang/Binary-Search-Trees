@@ -19,7 +19,7 @@ public class PowerBSTApp{
             }
         }
         else{
-            powerbst.printAllDateTimes();
+            powerbst.printAllDateTimesBST();
         }
     }
 }
